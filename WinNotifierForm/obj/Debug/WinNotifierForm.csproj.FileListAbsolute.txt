@@ -1,0 +1,13 @@
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\bin\Debug\WinNotifierForm.exe.config
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\bin\Debug\WinNotifierForm.exe
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\bin\Debug\WinNotifierForm.pdb
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\bin\Debug\WinNotifier.dll
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\bin\Debug\WinNotifier.pdb
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.csprojAssemblyReference.cache
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.FormWinNotifier.resources
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.Properties.Resources.resources
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.csproj.GenerateResource.cache
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.csproj.CoreCompileInputs.cache
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.csproj.CopyComplete
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.exe
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifierForm\obj\Debug\WinNotifierForm.pdb

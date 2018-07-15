@@ -1,0 +1,9 @@
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\bin\Debug\WinNotifier.dll
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\bin\Debug\WinNotifier.pdb
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.csprojAssemblyReference.cache
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.NotifierBalloon.resources
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.csproj.GenerateResource.cache
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.csproj.CoreCompileInputs.cache
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.dll
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.pdb
+C:\Users\BryanJames\Desktop\APPLICATION\DEVELOPER\LANGUAGE\C#\WinNotifier\WinNotifierForm\WinNotifier\obj\Debug\WinNotifier.Properties.Resources.resources
